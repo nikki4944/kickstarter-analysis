@@ -11,7 +11,7 @@ The kickstarter data also allows us to determine how successful the campaigns we
 
 ## Results
 
-As illustrate in the attached graph, "Theater Outcome vs Launch", we are able to see that the best months to launch a new campaign are May, June, and July while the months of November, December, and January are the worst.![Theater_Outcomes_VS_Launch](https://user-images.githubusercontent.com/82982901/116016290-2d033200-a60a-11eb-9b1d-30300cb612ae.png)
+As illustrated in the attached graph, "Theater Outcome vs Launch", we are able to see that the best months to launch a new campaign are May, June, and July while the months of November, December, and January are the worst.![Theater_Outcomes_VS_Launch](https://user-images.githubusercontent.com/82982901/116016290-2d033200-a60a-11eb-9b1d-30300cb612ae.png)
 
 As the attached graphic illustrates, the most successful campaigns had fundraising goals of less than $20,000. ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/82982901/116016862-f201fe00-a60b-11eb-9509-0d40424cd71b.png)
 
